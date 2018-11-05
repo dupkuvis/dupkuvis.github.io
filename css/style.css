@@ -57,8 +57,14 @@
 } 
 
 .work-img {
-/*    margin-left: 10%;
-    width: 80%;*/
+    margin-left: 10%;
+    /*width: 100%;*/
+    width: 120%;
+}
+
+.paper-info {
+    margin-left: 5%;
+    /*width: 100%;*/
     width: 100%;
 }
 
